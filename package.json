@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1"
+  },
+  "name": "estoqueads",
+  "version": "1.0.0",
+  "description": "Estoque ADS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imvitoraug/estoqueads.git"
+  },
+  "author": "Vitor Augusto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imvitoraug/estoqueads/issues"
+  },
+  "homepage": "https://github.com/imvitoraug/estoqueads#readme"
+}
